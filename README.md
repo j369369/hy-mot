@@ -16,18 +16,18 @@
     -   [Quiz on Lists](https://github.com/j369369/hy-mot/blob/master/unit-3/Quiz%20on%20Lists.py)
     -   [Quiz on Dictionaries](https://github.com/j369369/hy-mot/blob/master/unit-3/Quiz%20on%20Dictionaries.py)
 -   UNIT-4
-    -   [Quiz on Conditions]
+    -   [Quiz on Conditions](https://github.com/j369369/hy-mot/blob/master/unit-4/Quiz%20on%20Conditions.py)
 -   UNIT-5
-    -   [Quiz on Loops]
+    -   [Quiz on Loops](https://github.com/j369369/hy-mot/blob/master/unit-5/Quiz%20on%20Loops.py)
 -   UNIT-6
-    -   [Quiz on Functions]
-    -   [Exercise Classes]
+    -   [Quiz on Functions](https://github.com/j369369/hy-mot/blob/master/unit-6/Quiz%20on%20Functions.py)
+    -   [Exercise Classes](https://github.com/j369369/hy-mot/blob/master/unit-6/Exercise%20Classes.py)
         -   RedCircle
-            > <img src=RedCircle.png width =200>
+            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/RedCircle.png width =200>
         -   BlueCircle
-            > <img src=BlueCircle.png width =200>
+            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/BlueCircle.png width =200>
         -   SkinnyBlueRectangle
-            > <img src=SkinnyBlueRectangle.png height =200>
+            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/SkinnyBlueRectangle.png height =200>
         -   FatYellowRectangle
-            > <img src=FatYellowRectangle.png width =200>
+            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/FatYellowRectangle.png width =200>
 -   UNIT-7
