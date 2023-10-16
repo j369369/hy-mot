@@ -31,3 +31,6 @@
         -   FatYellowRectangle
             > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/FatYellowRectangle.png width =200>
 -   UNIT-7
+    - [Exercise ReadFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20ReadFile.py)
+    - [Exercise WriteFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20WriteFile.py)
+    - [Exercise LoadData](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20LoadData.py)
