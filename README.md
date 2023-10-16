@@ -22,15 +22,23 @@
 -   UNIT-6
     -   [Quiz on Functions](https://github.com/j369369/hy-mot/blob/master/unit-6/Quiz%20on%20Functions.py)
     -   [Exercise Classes](https://github.com/j369369/hy-mot/blob/master/unit-6/Exercise%20Classes.py)
-        -   RedCircle
-            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/RedCircle.png width =200>
-        -   BlueCircle
-            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/BlueCircle.png width =200>
-        -   SkinnyBlueRectangle
-            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/SkinnyBlueRectangle.png height =200>
-        -   FatYellowRectangle
-            > <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/FatYellowRectangle.png width =200>
+        -   <details>
+            <summary> RedCircle </summary>
+                <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/RedCircle.png width =200>
+            </details>
+        -   <details>
+            <summary> BlueCircle </summary>
+                <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/BlueCircle.png width =200>
+            </details>
+        -   <details>
+            <summary> SkinnyBlueRectangle </summary>
+                <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/SkinnyBlueRectangle.png width =200>
+            </details>
+        -   <details>
+            <summary> FatYellowRectangle </summary>
+                <img src=https://raw.githubusercontent.com/j369369/hy-mot/master/FatYellowRectangle.png width =200>
+            </details>
 -   UNIT-7
-    - [Exercise ReadFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20ReadFile.py)
-    - [Exercise WriteFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20WriteFile.py)
-    - [Exercise LoadData](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20LoadData.py)
+    -   [Exercise ReadFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20ReadFile.py)
+    -   [Exercise WriteFile](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20WriteFile.py)
+    -   [Exercise LoadData](https://github.com/j369369/hy-mot/blob/master/unit-7/Exercise%20LoadData.py)
