@@ -50,3 +50,8 @@
     -   [Week 10 assignment](https://github.com/j369369/hy-mot/blob/master/unit-10/Week_10_assignment.ipynb)
 -   UNIT-11
     -   [Week 11 assignment](https://github.com/j369369/hy-mot/blob/master/unit-11/Week_11_assignment.ipynb)
+-   UNIT-12
+    -   [Week 12](https://github.com/j369369/hy-mot/tree/master/unit-12)
+-   UNIT-13
+    -   [Week 13 assignment - 1](https://github.com/j369369/hy-mot/blob/master/unit-13/Week_13_assignment_1.ipynb)
+    -   [Week 13 assignment - 2](https://github.com/j369369/hy-mot/blob/master/unit-13/Week_13_assignment_2.ipynb)
